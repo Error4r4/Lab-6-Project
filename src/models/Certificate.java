@@ -1,3 +1,4 @@
+package models;
 public class Certificate {
     private static int nextId = 1;
     private final int  certificateId;
