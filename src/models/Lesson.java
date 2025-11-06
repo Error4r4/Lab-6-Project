@@ -1,3 +1,4 @@
+package models;
 public class Lesson {
     private int nextId = 1;
     private int lessonId;
